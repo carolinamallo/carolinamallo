@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 -->
 
 [![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinamallo&count_private=true&show_icons=true&theme=radical)](https://github.com/carolinamallo/github-readme-stats)
+
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=carolinamallo.carolinamallo" alt="Visitors">                     
+</p>
