@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 [![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinamallo&count_private=true)](https://github.com/carolinamallo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinamallo&layout=compact)](https://github.com/carolinamallo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinamallo)](https://github.com/carolinamallo/github-readme-stats)
