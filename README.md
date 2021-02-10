@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinamallo&count_private=true)](https://github.com/carolinamallo/github-readme-stats)
-
-[![Carol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carolinamallo)](https://github.com/carolinamallo/github-readme-stats)
+[![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinamallo&count_private=true&show_icons=true&theme=radical)](https://github.com/carolinamallo/github-readme-stats)
