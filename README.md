@@ -21,10 +21,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.carolinamallo.vercel.app/api/top-langs/?username=carolinamallo&layout=compact&theme=radical" />
 </a>
 
--->
-
-[![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinamallo&count_private=true)](https://github.com/carolinamallo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinamallo&layout=compact)](https://github.com/carolinamallo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinamallo)](https://github.com/carolinamallo/github-readme-stats)
+
+-->
+
+[![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinamallo&count_private=true)](https://github.com/carolinamallo/github-readme-stats)
+
+[![Carol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carolinamallo)](https://github.com/carolinamallo/github-readme-stats)
